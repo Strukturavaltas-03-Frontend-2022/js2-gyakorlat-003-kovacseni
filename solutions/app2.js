@@ -6,7 +6,7 @@ const user = {
 const { firstName: f, lastName: l, job: j = 'unknown' } = user;
 
 export {
-  firstName,
-  lastName,
-  job,
+  f,
+  l,
+  j,
 };
